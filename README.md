@@ -28,7 +28,5 @@ Exploring AI integration in web applications
 📫 Connect with me
 
  Portfolio: https://asefanegash.netlify.app/
- LinkedIn: https://www.linkedin.com/in/asefanegash/
- GitHub: https://github.com/asegithub2023
-
+ 
 ⭐ Feel free to explore my repositories!
