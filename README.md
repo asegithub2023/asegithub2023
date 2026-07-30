@@ -1,32 +1,15 @@
- Hi there 👋 I'm Asefa Negash
+Hi there 👋 I'm Asefa Negash
 
 🎓 Computer Science graduate from Addis Ababa University
-💻 Software Engineer passionate about building web applications and solving real-world problems.
 
-I enjoy working with Python, Django, FastAPI, React, and TypeScript to create clean, scalable, and user-friendly applications. I am always learning new technologies and improving my software engineering skills.
+💻 I'm a Software Engineer interested in building full-stack web applications.
 
-🚀 What I work with
+🔭 Currently, I'm building a Real Estate Marketplace using ASP.NET Core, Angular, and PostgreSQL
 
-Backend: Python, Django, Django REST Framework, FastAPI, ASP.NET Core
-Frontend: React, TypeScript, JavaScript, Bootstrap
-Database: PostgreSQL, MySQL, SQLite, MongoDB
-Tools: Git, GitHub, REST APIs, Docker
+🌱 Currently learning .NET, Angular, PostgreSQL, and modern software engineering practices
 
- 🔨 Some projects I've built
+💬 Ask me about Python, Django, React, TypeScript, and Web Development
 
-🏠 Home Tutor System — Full-stack platform connecting students and tutors
-🤖 AI Chatbot — React + FastAPI application with OpenAI API integration
-📋 Task Management Dashboard** — Trello-style app using React and TypeScript
-🌦️ Weather App — Weather application using external APIs
-
-🌱 Currently
-
-Improving my software engineering skills
-Building full-stack applications
-Exploring AI integration in web applications
-
-📫 Connect with me
-
- Portfolio: https://asefanegash.netlify.app/
- 
-⭐ Feel free to explore my repositories!
+📫 Connect with me:
+- LinkedIn: https://www.linkedin.com/in/asefanegash/
+- Portfolio: https://asefanegash.netlify.app/
