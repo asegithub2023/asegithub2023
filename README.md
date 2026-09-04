@@ -97,8 +97,16 @@ Currently developing a full-stack real estate marketplace where users can discov
 ## 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=asegithub2023&show_icons=true&hide_border=true&rank_icon=github" height="170" alt="Asefa's GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=asegithub2023&layout=compact&hide_border=true" height="170" alt="Top Languages"/>
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=asegithub2023&show_icons=true&hide_border=true&rank_icon=github&cache_seconds=1800"
+    height="170"
+    alt="Asefa's GitHub Stats"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=asegithub2023&layout=compact&hide_border=true&cache_seconds=1800"
+    height="170"
+    alt="Top Languages"
+  />
 </p>
 
 ---
