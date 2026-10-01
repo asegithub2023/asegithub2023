@@ -166,9 +166,6 @@ A full-stack training management platform for managing courses, students, instru
   <a href="https://asefanegash.netlify.app/">
     <img src="https://img.shields.io/badge/Portfolio-Visit-111111?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/>
   </a>
-  <a href="mailto:aseaau21@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
 </p>
 
 ---
